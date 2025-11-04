@@ -1,0 +1,10 @@
+Setupping backend
+- npm init -y
+- npm install express mongoose cors dotenv
+- npm install bcrypt
+- npm install jsonwebtoken
+- npm install react-router-dom react-hook-form @hookform/resolvers yup axios
+- npm install react-icons
+- npm install express-validator
+- npm install nodemailer
+- npm install csv-parse
